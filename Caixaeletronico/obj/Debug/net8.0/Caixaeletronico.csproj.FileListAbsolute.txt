@@ -1,0 +1,15 @@
+c:\Users\ALUNOS\OneDrive\Documentos\Gabrielle 2\caixaeletronico\Caixaeletronico\bin\Debug\net8.0\Caixaeletronico.exe
+C:\Users\ALUNOS\OneDrive\Documentos\Gabrielle 2\caixaeletronico\Caixaeletronico\bin\Debug\net8.0\Caixaeletronico.deps.json
+C:\Users\ALUNOS\OneDrive\Documentos\Gabrielle 2\caixaeletronico\Caixaeletronico\bin\Debug\net8.0\Caixaeletronico.runtimeconfig.json
+c:\Users\ALUNOS\OneDrive\Documentos\Gabrielle 2\caixaeletronico\Caixaeletronico\bin\Debug\net8.0\Caixaeletronico.dll
+c:\Users\ALUNOS\OneDrive\Documentos\Gabrielle 2\caixaeletronico\Caixaeletronico\bin\Debug\net8.0\Caixaeletronico.pdb
+c:\Users\ALUNOS\OneDrive\Documentos\Gabrielle 2\caixaeletronico\Caixaeletronico\obj\Debug\net8.0\Caixaeletronico.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ALUNOS\OneDrive\Documentos\Gabrielle 2\caixaeletronico\Caixaeletronico\obj\Debug\net8.0\Caixaeletronico.AssemblyInfoInputs.cache
+c:\Users\ALUNOS\OneDrive\Documentos\Gabrielle 2\caixaeletronico\Caixaeletronico\obj\Debug\net8.0\Caixaeletronico.AssemblyInfo.cs
+c:\Users\ALUNOS\OneDrive\Documentos\Gabrielle 2\caixaeletronico\Caixaeletronico\obj\Debug\net8.0\Caixaeletronico.csproj.CoreCompileInputs.cache
+c:\Users\ALUNOS\OneDrive\Documentos\Gabrielle 2\caixaeletronico\Caixaeletronico\obj\Debug\net8.0\Caixaeletronico.sourcelink.json
+c:\Users\ALUNOS\OneDrive\Documentos\Gabrielle 2\caixaeletronico\Caixaeletronico\obj\Debug\net8.0\Caixaeletronico.dll
+c:\Users\ALUNOS\OneDrive\Documentos\Gabrielle 2\caixaeletronico\Caixaeletronico\obj\Debug\net8.0\refint\Caixaeletronico.dll
+c:\Users\ALUNOS\OneDrive\Documentos\Gabrielle 2\caixaeletronico\Caixaeletronico\obj\Debug\net8.0\Caixaeletronico.pdb
+C:\Users\ALUNOS\OneDrive\Documentos\Gabrielle 2\caixaeletronico\Caixaeletronico\obj\Debug\net8.0\Caixaeletronico.genruntimeconfig.cache
+C:\Users\ALUNOS\OneDrive\Documentos\Gabrielle 2\caixaeletronico\Caixaeletronico\obj\Debug\net8.0\ref\Caixaeletronico.dll
